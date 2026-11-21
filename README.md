@@ -9,23 +9,25 @@ A make.fun entry for the [news-image-20261121](https://make.fun/bounty/news-imag
 ## The image
 
 A newspaper front page, drawn by `compose.py` (Pillow) from a generated
-hero photograph of Kyiv's skyline at dusk:
+hero photograph of Kyiv's skyline at dusk. v2 is a midday refresh of the
+morning edition (rank fell 697 → 1541, updated 21 Nov ~13:30 WIB):
 
-- **Lead — US offers Ukraine NATO membership for land.** Washington
-  floats NATO membership for Kyiv in return for ceding territory to
-  Moscow — the boldest peace offer of the war; allies divided.
-- **Overnight strikes hit Kryvyi Rih.** 2 killed, 42 hurt — four of
-  them children — in fresh Russian attacks; Ukraine hits the Crimean
-  bridge.
-- **Poland seeks NATO backing.** Warsaw turns to its allies after
-  Russian missiles and drones cross into its territory.
-- **ICJ: Myanmar committed genocide.** The Hague finds Myanmar guilty
-  of genocide against the Rohingya — a first for any state.
-- **Houthi missile hits Riyadh tower.** Debris and material damage in
-  the Saudi capital; Riyadh says it intercepted further attacks.
-- **Ticker:** COP31 enters final stage, JPMorgan/Visa/Mastercard hit
-  in cyberattack, Cyclone Akvan aftermath, Trump pardons Pete Rose,
-  Sensex +898.
+- **Lead — Russia open to NATO-like status for land.** Moscow signals
+  it could accept Article 4 and 5-style security guarantees for Kyiv —
+  if it keeps the land it seized. Kyiv will not cede ground.
+- **Russian missiles land in Poland.** Two missiles and a drone come
+  down in the east; NATO calls it a grave violation and scrambles jets.
+- **Saudis intercept more Houthi missiles.** Coalition destroys three
+  missiles over Riyadh and strikes Hodeidah; Houthis say 41 killed in
+  24 hours.
+- **Myanmar calls ICJ ruling 'unfair'.** Naypyidaw rejects the
+  genocide verdict; Rohingya in Bangladesh welcome it and want to go
+  home.
+- **COP31 runs into overtime.** Summit in Antalya passes its Friday
+  deadline; the draft deal omits any phase-out of fossil fuels.
+- **Ticker:** Kryvyi Rih toll (2 killed, 42 hurt), Cyclone Xavier
+  threatens Cook Islands, Haiti fighting erupts, Wall Street slumps,
+  German metalworkers strike, Trump pardons Pete Rose.
 
 ## How it runs
 
