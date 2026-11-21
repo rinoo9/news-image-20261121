@@ -5,7 +5,9 @@
 //
 // Before copying, the PNG is validated so a corrupt or wrong-sized image
 // fails loudly instead of shipping silently: the 8-byte PNG signature must
-// match, and the IHDR chunk must declare exactly 1024x1024.
+// match, the IHDR chunk must declare exactly 1024x1024, and the file must
+// stay within the bounty cap of 1 MiB. After writing, the output is read
+// back and compared byte for byte with the source.
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -14,9 +16,15 @@ const here = dirname(fileURLToPath(import.meta.url));
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 const EXPECTED_WIDTH = 1024;
 const EXPECTED_HEIGHT = 1024;
+const MAX_BYTES = 1024 * 1024;
 
 const png = readFileSync(join(here, 'entry.png'));
 
+if (png.length > MAX_BYTES) {
+  throw new Error(
+    `entry.png: ${png.length} bytes exceeds the 1 MiB cap`,
+  );
+}
 // PNG signature: 137 80 78 71 13 10 26 10.
 const signature = [0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a];
 for (let i = 0; i < signature.length; i++) {
