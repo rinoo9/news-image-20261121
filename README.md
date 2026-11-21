@@ -9,8 +9,29 @@ A make.fun entry for the [news-image-20261121](https://make.fun/bounty/news-imag
 ## The image
 
 A newspaper front page, drawn by `compose.py` (Pillow) from a generated
-hero photograph of Kyiv's skyline at dusk. v2 is a midday refresh of the
-morning edition (rank fell 697 → 1541, updated 21 Nov ~13:30 WIB):
+hero photograph of Kyiv's skyline at dusk. v3 is a rank-drop refresh
+(rank fell 3081 → 3433, updated 22 Nov ~01:40 WIB):
+
+- **New hero photo** — storm clouds, searchlights and smoke over Kyiv
+  at dusk, with a caption strip tying it to the overnight strikes on
+  Kryvyi Rih.
+- **Lead — US offers Ukraine NATO membership for land.** Washington
+  offers Kyiv NATO-style security guarantees in exchange for the land
+  Moscow seized. Russia signals openness; Kyiv will not cede ground.
+- **Poland seeks NATO backing after missiles land.** Two missiles and
+  a drone land in the east; NATO calls it a grave violation.
+- **Houthi missile hits Riyadh tower.** A missile strikes a tower in
+  the capital; the coalition says it downed others and hit Hodeidah.
+- **ICJ: Myanmar committed genocide.** The court finds Myanmar
+  committed genocide; Naypyidaw calls it 'unfair'.
+- **COP31 runs into overtime.** Summit in Antalya passes its Friday
+  deadline; the draft deal omits any fossil-fuel phase-out.
+- **Ticker:** Kryvyi Rih toll (2 killed, 42 hurt), Cyclone Xavier
+  nears Cook Islands, Haiti fighting erupts, Wall Street slumps, German
+  metal strike, Trump pardons Pete Rose.
+
+v2 was a midday refresh of the morning edition (rank fell 697 → 1541,
+updated 21 Nov ~13:30 WIB), with the same story set:
 
 - **Lead — Russia open to NATO-like status for land.** Moscow signals
   it could accept Article 4 and 5-style security guarantees for Kyiv —
