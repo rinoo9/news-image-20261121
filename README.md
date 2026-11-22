@@ -9,10 +9,34 @@ A make.fun entry for the [news-image-20261121](https://make.fun/bounty/news-imag
 ## The image
 
 A newspaper front page, drawn by `compose.py` (Pillow) from a generated
-hero photograph of the Manama skyline at dusk. v4 is a rank-drop refresh
-(rank fell 3779 → 4526, updated 22 Nov ~10:45 WIB) that replaces the
-story set with the Saturday-evening news, after checking the record
-showed v3's lead and two grid stories were dated wrong:
+hero photograph of the Manama skyline at dusk. v5 is a rank-drop refresh
+(rank fell 6687 → 7353, updated 22 Nov ~16:45 WIB) that refreshes the
+Saturday-night story set with what the later Saturday reporting added:
+
+- **Lead — Iran strikes Bahrain.** Iran's Guards say they hit US
+  positions at two bases in Bahrain; Bahrain says a civilian site
+  burned, no one hurt. Three oil tankers were hit near Hormuz on
+  Saturday, and Tehran offered a two-day truce to reopen the strait.
+- **Rutte vows to defend Poland.** NATO chief pledges to defend
+  'every inch' of Polish territory; the North Atlantic Council meets
+  Monday in Brussels.
+- **Mexico captures 'El Chapo Isidro'.** FBI most-wanted cartel boss
+  seized in Sinaloa with US help; 11 dead, two lieutenants also held.
+- **Moscow rejects NATO-style guarantees.** Russia rules out any
+  'quasi-membership' for Kyiv, a day after US envoys floated NATO
+  for land.
+- **COP31: 'good deal or no deal'.** Talks run through Saturday
+  night; the draft omits fossil fuels and drops the $120bn aid target.
+- **Ticker:** Kryvyi Rih was a double-tap strike (2 killed, 60
+  wounded), Saudis down three Houthi missiles, Sparta II still
+  burning as Finland closes airspace, Cyclone Xavier weakens and
+  relief lands, Dow and S&P in correction as AI sells off, bred
+  mosquitoes cut dengue 69%.
+
+v4 was a rank-drop refresh (rank fell 3779 → 4526, updated 22 Nov
+~10:45 WIB) that replaces the story set with the Saturday-evening
+news, after checking the record showed v3's lead and two grid stories
+were dated wrong:
 
 - **New hero photo** — Manama at dusk, smoke columns and searchlights
   over the Gulf, with a caption strip tying it to the strikes on
