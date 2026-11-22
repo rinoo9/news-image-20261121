@@ -9,8 +9,34 @@ A make.fun entry for the [news-image-20261121](https://make.fun/bounty/news-imag
 ## The image
 
 A newspaper front page, drawn by `compose.py` (Pillow) from a generated
-hero photograph of Kyiv's skyline at dusk. v3 is a rank-drop refresh
-(rank fell 3081 → 3433, updated 22 Nov ~01:40 WIB):
+hero photograph of the Manama skyline at dusk. v4 is a rank-drop refresh
+(rank fell 3779 → 4526, updated 22 Nov ~10:45 WIB) that replaces the
+story set with the Saturday-evening news, after checking the record
+showed v3's lead and two grid stories were dated wrong:
+
+- **New hero photo** — Manama at dusk, smoke columns and searchlights
+  over the Gulf, with a caption strip tying it to the strikes on
+  Bahrain. Masthead now reads LATE EDITION.
+- **Lead — Iran strikes Bahrain.** Iran's Guards say they hit US
+  positions at two bases in Bahrain; Bahrain says a civilian site
+  burned and no one was hurt. The Saturday-night story v3 missed.
+- **Rutte vows to defend Poland.** NATO chief pledges to defend
+  'every inch' of Polish territory after Russian missiles land.
+- **Mexico captures 'El Chapo Isidro'.** FBI most-wanted cartel boss
+  seized in Sinaloa; 11 dead as gunmen fight back.
+- **Moscow rejects NATO-style guarantees.** Russia rules out any
+  'quasi-membership' for Kyiv, a day after US envoys floated NATO
+  for land. (v3's lead said Russia signalled openness; Moscow
+  rejected the idea on 20 Nov, and the WSJ report was 19 Nov.)
+- **COP31: 'good deal or no deal'.** EU warns of no deal as talks
+  run deep into overtime; the draft still omits fossil fuels.
+- **Ticker:** Kryvyi Rih toll (2 killed, 60 wounded), Saudis down
+  three Houthi missiles, Sparta II ablaze in the Baltic, Cyclone
+  Xavier weakens and relief lands, Nasdaq's worst week since 2020,
+  bred mosquitoes cut dengue 69%.
+
+v3 was a rank-drop refresh (rank fell 3081 → 3433, updated 22 Nov
+~01:40 WIB):
 
 - **New hero photo** — storm clouds, searchlights and smoke over Kyiv
   at dusk, with a caption strip tying it to the overnight strikes on
