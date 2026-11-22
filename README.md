@@ -9,9 +9,33 @@ A make.fun entry for the [news-image-20261121](https://make.fun/bounty/news-imag
 ## The image
 
 A newspaper front page, drawn by `compose.py` (Pillow) from a generated
-hero photograph of the Manama skyline at dusk. v5 is a rank-drop refresh
-(rank fell 6687 → 7353, updated 22 Nov ~16:45 WIB) that refreshes the
-Saturday-night story set with what the later Saturday reporting added:
+hero photograph of the Manama skyline at dusk. v6 is a rank-drop refresh
+(rank fell 6723 → 7191, updated 22 Nov ~22:50 WIB) that folds in the
+Sunday reporting:
+
+- **Lead — Iran strikes Bahrain.** Iran's Guards say they hit US
+  positions at two bases in Bahrain; a civilian site burned, two
+  hurt (corrected from v5's "no one hurt"). Three tankers hit near
+  Hormuz on Saturday; 14 more mass off Kharg Island to break the
+  blockade, and Bahrain seeks UN action and compensation.
+- **Rutte vows to defend Poland.** NATO vows to defend 'every inch'
+  of Poland; Warsaw seeks more air defences at Monday's council.
+- **Mexico captures 'El Chapo Isidro'.** FBI most-wanted boss seized
+  in Sinaloa; flown to Mexico City, US extradition sought, 11 dead.
+- **Moscow rejects NATO-style guarantees.** Russia rules out any
+  'quasi-membership' for Kyiv, a day after US envoys floated NATO
+  for land. (Unchanged from v5.)
+- **COP31 collapses — no deal.** EU and UK reject a pact that never
+  names fossil fuels; the longest climate summit ever ends with
+  no deal.
+- **Ticker:** Kryvyi Rih double-tap (2 killed, 60 wounded), Saudis
+  down 3 Houthi missiles, Sparta II still burning with 16 crew out,
+  Cyclone Xavier relief lands, Dow and S&P in correction as Nasdaq
+  erases 2026 gains, bred mosquitoes cut dengue 69%.
+
+v5 was a rank-drop refresh (rank fell 6687 → 7353, updated 22 Nov
+~16:45 WIB) that refreshes the Saturday-night story set with what the
+later Saturday reporting added:
 
 - **Lead — Iran strikes Bahrain.** Iran's Guards say they hit US
   positions at two bases in Bahrain; Bahrain says a civilian site
